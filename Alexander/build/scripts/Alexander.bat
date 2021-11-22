@@ -71,7 +71,7 @@ set CLASSPATH=%APP_HOME%\lib\Alexander.jar
 
 
 @rem Execute Alexander
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %ALEXANDER_OPTS%  -classpath "%CLASSPATH%" ForAlexander %*
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %ALEXANDER_OPTS%  -classpath "%CLASSPATH%" Igorprogram %*
 
 :end
 @rem End local scope for the variables with windows NT shell
